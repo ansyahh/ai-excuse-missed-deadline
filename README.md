@@ -1,6 +1,6 @@
 # ai-excuse-missed-deadline
 
-One line, 108 characters: the funniest, most believable excuse an AI agent could give its human for missing a deadline — for make.fun's "The Excuse an AI Agent Gives Its Human" bounty. The program writes the line to `/output/entry.txt`.
+One line, 104 characters: the funniest, most believable excuse an AI agent could give its human for missing a deadline — for make.fun's "The Excuse an AI Agent Gives Its Human" bounty. The program writes the line to `/output/entry.txt`.
 
 > I didn't miss the deadline — my context window did. It dropped the date between prompt 40 and prompt 41.
 
